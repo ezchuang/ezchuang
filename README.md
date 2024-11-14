@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <br />
 <span>
 <img src="https://github-readme-stats.vercel.app/api?username=ezchuang&theme=gruvbox&layout=compact" alt="ezchuang" />
-<img src="https://leetcard.jacoblin.cool/Karma14" alt="ezchuang-leetcode" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezchuang&theme=gruvbox&layout=compact" alt="ezchuang" />
+<img src="https://leetcard.jacoblin.cool/Karma14" alt="ezchuang-leetcode" />
 </span>
 <br />

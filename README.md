@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div style="deplay:flex">
 <img src="https://github-readme-stats.vercel.app/api?username=ezchuang&theme=gruvbox&layout=compact" alt="ezchuang" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezchuang&theme=gruvbox&layout=compact" alt="ezchuang" />
 <!-- <img src="https://leetcard.jacoblin.cool/Karma14" alt="ezchuang-leetcode" /> -->
+</div>
